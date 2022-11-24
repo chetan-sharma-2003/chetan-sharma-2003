@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan-sharma-2003
+- 👋 Hi, I’m Chetan Sharma
 - 👀 I’m interested in Web3 , Blockchain Technology , cryptocurrency , Dapp , Defi
 - 🌱 I’m currently learning Solidity Programing Language , Blockchain Technology
 - 📫 You can contact me here chetanshofficial@gmail.com
